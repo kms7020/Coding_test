@@ -8,9 +8,7 @@
 //1
 //Let's go!
 
-import java.util.Scanner;
-
-public class solution01 {
+public class Solution01 {
     public static void main(String[] args) {
         String message = "Let's go!";
 

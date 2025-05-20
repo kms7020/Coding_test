@@ -26,7 +26,7 @@ Neurosurgery
 
 import java.util.Scanner;
 
-public class solution02 {
+public class Solution02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String code = sc.next();
@@ -48,7 +48,7 @@ lastFourWords.equals("infl")
             System.out.println("Orthopedics");
         }
         
-else if(lastFourWords.equals("head"))
+else if(lastFourWords.equals("skin"))
 {
             System.out.println("Dermatology");
         }
